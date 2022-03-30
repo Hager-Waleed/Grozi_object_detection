@@ -1,5 +1,7 @@
 # Grozi_object_detection
+
 ##Data 
+
 Asubset of Grozi-3.2K
 ## prepare data 
 - TensorFlow 2 Object Detection API and COCO API is used to convert the data from coco format to tf record
